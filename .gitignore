@@ -1,0 +1,4 @@
+.replit
+git commit -m "first commit"
+node_modules
+replit.nix
